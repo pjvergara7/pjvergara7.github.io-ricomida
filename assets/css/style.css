@@ -1,0 +1,105 @@
+.navbar {
+    background-color: #373A3C;
+    height: 60px;
+}
+.titulo{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: white;
+}
+.nav-link{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300;
+    color: white !important;
+}
+
+.col hr{
+    width:90%;
+    margin:auto;
+    color: #000000;
+    height: 1pt;
+}
+
+.imagen-pizza{
+    background-color: white;
+}
+.titulo2{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.carousel .carousel-indicators li {  
+    height: 15px!important;
+    width: 15px!important;
+    border-radius: 50%;
+    background-color: #373A3C31; 
+}
+.carousel .carousel-indicators li.active { 
+    background-color: #373A3C; 
+}
+
+
+
+.subtitulo,
+.subtitulo2{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.rojo1:hover,
+.rojo2:hover {
+    color: red;
+}
+
+.instrucciones{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.titulo3,
+.card-title{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.card-text1,
+.card-text2,
+.card-text3{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+}
+
+.newsletter{
+    background-color: #DC3545;
+    min-height: 534px;
+}
+
+.mega-titulo{
+    color: #FFFFFF;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.subtitulo2{
+    color: #FFFFFF;
+    text-align: center;
+}
+.footer{
+    background-color: #373A3C;
+    height: 127px;
+    text-align: center;
+}
